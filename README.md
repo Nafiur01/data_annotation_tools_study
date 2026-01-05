@@ -31,7 +31,7 @@ You must **record the full annotation procedure** using **OBS Studio**.
 
 Use **only ONE** of the following annotation tools:
 
-- **Option A:** VGG Image Annotator (VIA)
+- **Option A:** VGG Image Annotator (VIA) (https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
 - **Option B:** MakeSense (https://www.makesense.ai)
 
 > ⚠️ Do NOT use any other annotation tool.
