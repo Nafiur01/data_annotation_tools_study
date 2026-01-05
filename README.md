@@ -73,6 +73,7 @@ Both phases must be completed for every task.
 ---
 
 ## 6. Task A: German Shepherd
+Link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FNafiur01%2Fdata_annotation_tools_study%2Ftree%2Fmain%2Fdog_dataset%2Fgerman_shepherd
 
 ### Phase 1: Annotation
 1. Select **10 consecutive images** of **German Shepherd** from `dog_dataset`
@@ -87,6 +88,7 @@ Both phases must be completed for every task.
 ---
 
 ## 7. Task B: Husky
+Link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FNafiur01%2Fdata_annotation_tools_study%2Ftree%2Fmain%2Fdog_dataset%2Fhusky
 
 ### Phase 1: Annotation
 1. Select **10 consecutive images** of **Husky** from `dog_dataset`
@@ -100,6 +102,7 @@ Both phases must be completed for every task.
 ---
 
 ## 8. Task C: Golden Retriever
+Link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FNafiur01%2Fdata_annotation_tools_study%2Ftree%2Fmain%2Fdog_dataset%2Fgolden_retriever
 
 ### Phase 1: Annotation
 1. Select **10 consecutive images** of **Golden Retriever** from `dog_dataset`
