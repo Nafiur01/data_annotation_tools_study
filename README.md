@@ -1,4 +1,4 @@
-# README: Data Annotation Procedure for Computer Vision Study
+# Data Annotation Procedure for Computer Vision Study
 
 This document provides **step-by-step instructions** for completing the data annotation tasks and recording the entire process. Please read carefully and follow **all steps in order**.
 
